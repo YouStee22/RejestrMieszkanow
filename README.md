@@ -7,60 +7,42 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Projekt Rejestr Mieszkańców
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Projekt robiony na zlecenie z rozmowy kwalifikacyjnej na stanowisko Junior PHP Developer.
+Zastosowane funkcje
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+	•	Dodawanie Miasta, Rodziny, członka rodziny za pomocą dokumentów
+	•	System uwierzytelniania i autoryzacji (wykorzystanie ról, uprawnień, mechanizmu policy).
+	•	Dane po stronie zewnętrznej bazy danych wraz z relacjami
+	•	Edycja i usuwanie Miasta, Rodziny, członka rodziny
+	•	Prezentowanie danych z podziałem na strony
+	•	Operacje CRUD (create, read, update, delete) dla tabel projektu)
+	•	System wypełniania bazy danych testowymi danymi
+	•	Responsywny graficzny interfejs użytkownika
+	•	Sortowanie danych
+	•	Filtrowanie danych
+	•	Walidacja danych po stronie serwera i przeglądarki
+ 	•	Funkcja płatności za dokumenty PayU
+    
+## Użyte techonolgie:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+ - PHP
+ - Framework Laravel
+ - Laravel Livewire
+ - JavaScript
+ - Tailwind
+ - HTML
+ - CSS
+ - GSAP
+ - JavaScript Emails
+ - Moduł PayU
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<img width="713" alt="Zrzut ekranu 2024-02-28 o 19 46 25" src="https://github.com/YouStee22/LERO/assets/121635787/f205b034-0680-4260-adc0-7f5b6257cccd">
+<img width="844" alt="Zrzut ekranu 2024-02-28 o 18 15 26" src="https://github.com/YouStee22/LERO/assets/121635787/9a27d76f-51a5-4df3-b403-23a1ab3e8de7">
+<img width="844" alt="Zrzut ekranu 2024-02-28 o 18 15 43" src="https://github.com/YouStee22/LERO/assets/121635787/bc435a2a-ef1d-45ec-b5cd-e1dbd3f0d9e2">
+<img width="844" alt="Zrzut ekranu 2024-02-28 o 18 15 05" src="https://github.com/YouStee22/LERO/assets/121635787/332f79b4-521a-4a0a-9459-322d8283ac3b">
+<img width="844" alt="Zrzut ekranu 2024-02-28 o 18 14 42" src="https://github.com/YouStee22/LERO/assets/121635787/4150b805-6e47-482f-b942-b6a0be7be103">
+<img width="844" alt="Zrzut ekranu 2024-02-28 o 18 14 28" src="https://github.com/YouStee22/LERO/assets/121635787/3d32227c-88e4-4595-841f-dfb40c117bf3">
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
