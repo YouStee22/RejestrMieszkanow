@@ -37,6 +37,7 @@ Zastosowane funkcje
  - GSAP
  - JavaScript Emails
  - Moduł PayU
+ - Fetch API
 
 
 <img width="713" alt="Zrzut ekranu 2024-02-28 o 19 46 25" src="https://github.com/YouStee22/LERO/assets/121635787/f205b034-0680-4260-adc0-7f5b6257cccd">
